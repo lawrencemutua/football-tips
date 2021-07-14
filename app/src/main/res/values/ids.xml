@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="DailyTipsButton" type="id">dailytips</item>
+    <item name="PreviousMatchesbutton" type="id">PreviousMatches</item>
+    <item name="BTTSTipsbutton" type="id">BTTS</item>
+    <item name="JackpotTipsbutton" type="id">JackpotTips</item>
+    <item name="DoubleChancebutton" type="id">DoubleChance</item>
+    <item name="DailySafeGamebutton" type="id">DailySafeGame</item>
+    <item name="VIPbutton" type="id">VIP</item>
+</resources>
