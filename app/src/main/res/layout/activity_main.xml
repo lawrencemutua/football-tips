@@ -6,60 +6,45 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="DailyTips"
-        tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="59dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="52dp" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="DoubleChance"
-        tools:layout_editor_absoluteX="252dp"
-        tools:layout_editor_absoluteY="57dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="83dp" />
 
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="DailySafeGame"
-        tools:layout_editor_absoluteX="43dp"
-        tools:layout_editor_absoluteY="147dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="131dp" />
 
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="JackpotTips"
-        tools:layout_editor_absoluteX="256dp"
-        tools:layout_editor_absoluteY="141dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="166dp" />
 
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="BTTS"
-        tools:layout_editor_absoluteX="47dp"
-        tools:layout_editor_absoluteY="258dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="214dp" />
 
-    <Button
-        android:id="@+id/button6"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="PreviousMatches"
-        tools:layout_editor_absoluteX="256dp"
-        tools:layout_editor_absoluteY="258dp" />
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="254dp" />
 
-    <Button
-        android:id="@+id/button7"
-        android:layout_width="wrap_content"
+    <androidx.cardview.widget.CardView
+        android:layout_width="409dp"
         android:layout_height="wrap_content"
-        android:text="VIP"
-        tools:layout_editor_absoluteX="47dp"
-        tools:layout_editor_absoluteY="354dp" />
-
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="298dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
